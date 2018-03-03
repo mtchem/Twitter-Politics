@@ -10,5 +10,20 @@
 </ul>
 </p>
 
+<li>asterisk()</li>
+<li>cirlce()</li>
+<li>circle_cross</li>
+<li>cross()</li>
+<li>diamond()</li>
+<li>diamond_cross()</li>
+<li>inverted_triangle()</li>
+<li>square()</li>
+<li>square_cross</li>
+<li>square_x</li>
+<li>triangle()</li>
+<li>x()</li>
 
-
+<li> hexadecimal strings </li>
+<li>tuples of RGB values between 0 and 255</li>
+<li>any CSS color name</li>
+ , tuples of RGB values between 0 and 255, and any of the 147 CSS color names
